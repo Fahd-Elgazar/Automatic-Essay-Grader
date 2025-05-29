@@ -35,8 +35,6 @@ Essay-Grading-NLP-Project/
 ├── requirements.txt                 → Python dependencies
 │
 ├── essay_tokenizer/                → Saved tokenizer files
-├── model/
-│   └── essay_grader_model.pt       → Final trained model
 │
 └── data/
     └── essays_for_finetuning.csv   → Cleaned training dataset
