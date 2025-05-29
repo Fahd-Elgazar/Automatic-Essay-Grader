@@ -1,0 +1,14 @@
+language_tool_python
+matplotlib
+numpy
+pandas
+re
+scikit-learn
+scipy
+sentence_transformers
+textblob
+textstat
+torch
+tqdm
+transformers
+xgboost
